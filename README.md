@@ -1,10 +1,16 @@
 # EmoDNNProject
 
-This project explores how emotional and neutral scenes are perceived using convolutional neural networks (CNNs).
+A deep learning approach to understand how humans perceive emotional and neutral scenes.
 
-We use **representational similarity analysis (RSA)** to compare human emotional ratings with CNN visual layer representations (Cichy et al., 2014; Dobs et al., 2023).
+This project applies convolutional neural networks (CNNs) combined with **representational similarity analysis (RSA)** to explore the layer-wise visual representation of scenes, comparing neural features with human emotional ratings.
 
-## Project Materials
+## Features
 
-- 🧪 [實驗流程圖 (Flowchart)](/Flowchart.pdf)
-- 📝 [發表內容 (Paper)](/2024_ccn_final_authored.pdf)
+- 🧠 Uses CNNs to model human visual perception
+- 💬 Integrates emotional rating data from behavioral experiments
+- 📊 Employs RSA to bridge cognitive neuroscience and computer vision
+
+## Project Files
+
+- 🧪 [Flowchart of Experimental Design](/Flowchart.pdf)
+- 📄 [Conference Paper](/2024_ccn_final_authored.pdf)
